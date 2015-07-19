@@ -1,0 +1,17 @@
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\bin\Debug\WizardActivityPack.Activities.Design.dll
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\bin\Debug\WizardActivityPack.Activities.Design.pdb
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\bin\Debug\WizardActivityPack.Activities.dll
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\bin\Debug\WizardActivityPack.Activities.pdb
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.csprojResolveAssemblyReference.cache
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardContainerDesigner.baml
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\StepDesigner.baml
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardDesigner.baml
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardContainerDesigner.g.cs
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\StepDesigner.g.cs
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardDesigner.g.cs
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design_MarkupCompile.cache
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.g.resources
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.Properties.Resources.resources
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.csproj.GenerateResource.Cache
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.dll
+G:\programming\dotnet\workflow_mvc\mvc_music - Copy\Wizard\WizardActivityPackDesigner\obj\Debug\WizardActivityPack.Activities.Design.pdb

@@ -1,0 +1,6 @@
+obj\Debug\_MvcMusicStore.g.cs
+obj\Debug\Workflow1.g.cs
+obj\Debug\CheckoutFlowchart.g.cs
+obj\Debug\CheckoutFlowchart_Complete.g.cs
+obj\Debug\Checkout1.g.cs
+obj\Debug\checkout2.g.cs

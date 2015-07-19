@@ -1,0 +1,5 @@
+obj\Debug\Workflow1.g.xaml
+obj\Debug\CheckoutFlowchart.g.xaml
+obj\Debug\CheckoutFlowchart_Complete.g.xaml
+obj\Debug\Checkout1.g.xaml
+obj\Debug\checkout2.g.xaml
